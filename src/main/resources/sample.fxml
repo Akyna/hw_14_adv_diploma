@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?import javafx.scene.control.ProgressIndicator?>
-<?import javafx.scene.layout.StackPane?>
-<StackPane prefHeight="200" prefWidth="200" xmlns="http://javafx.com/javafx/11.0.14-internal"
-           xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.amboiko.controllers.TestController">
-    <ProgressIndicator fx:id="progressIndicator"/>
-</StackPane>
